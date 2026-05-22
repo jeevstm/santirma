@@ -41,7 +41,7 @@ function Header({ route, navigate, transparentOverHero = true }) {
       }}>
         <a href="#/" onClick={(e) => { e.preventDefault(); navigate('/'); }}
            style={{ display: 'flex', alignItems: 'center', gap: 14, textDecoration: 'none' }}>
-          <img src="assets/logo-mark-navy.png" alt="Santirma"
+          <img src="assets/logo-mark-transparent.png" alt="Santirma"
                style={{ height: solid ? 38 : 46, width: 'auto', transition: 'height 380ms var(--ease-luxury)' }} />
           <div style={{ display: 'flex', flexDirection: 'column', lineHeight: 1 }}>
             <div style={{

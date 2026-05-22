@@ -44,7 +44,7 @@ function Footer({ navigate }) {
         }}>
           <div>
             <div style={{ display: 'flex', alignItems: 'center', gap: 14, marginBottom: 24 }}>
-              <img src="assets/logo-mark-navy.png" alt="" style={{ height: 52, width: 'auto' }} />
+              <img src="assets/logo-mark-transparent.png" alt="" style={{ height: 52, width: 'auto' }} />
               <div style={{ lineHeight: 1 }}>
                 <div style={{ fontFamily: 'var(--font-display)', fontSize: 22, fontWeight: 700, color: '#F7F7F7', letterSpacing: '0.04em' }}>SANTIRMA</div>
                 <div style={{ fontSize: 9, fontWeight: 600, letterSpacing: '0.22em', color: 'var(--color-prestige-gold)', marginTop: 5 }}>PROPERTY SOLUTIONS</div>

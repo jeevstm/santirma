@@ -30,7 +30,7 @@ function SignInPage({ navigate }) {
         boxShadow: '0 40px 100px rgba(0,0,0,0.4)',
       }}>
         <div style={{ textAlign: 'center', marginBottom: 32 }}>
-          <img src="assets/logo-mark-light.png" alt="Santirma" style={{ height: 56, marginBottom: 16 }} />
+          <img src="assets/logo-mark-transparent.png" alt="Santirma" style={{ height: 56, marginBottom: 16 }} />
           <div style={{ fontFamily: 'var(--font-display)', fontWeight: 700, fontSize: 26, color: 'var(--color-midnight-navy)', letterSpacing: '0.04em' }}>SANTIRMA</div>
           <div style={{ fontSize: 9, fontWeight: 600, letterSpacing: '0.22em', color: 'var(--color-prestige-gold)', marginTop: 4 }}>PROPERTY SOLUTIONS</div>
         </div>
